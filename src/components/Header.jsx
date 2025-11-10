@@ -8,10 +8,8 @@ export default function Header() {
           Jivvo
         </a>
         <nav className="hidden md:flex items-center gap-8 text-sm">
-          <a href="#features" className="hover:opacity-80 transition">Product</a>
-          <a href="#showcase" className="hover:opacity-80 transition">Showcase</a>
-          <a href="#pricing" className="hover:opacity-80 transition">Pricing</a>
-          <a href="#docs" className="hover:opacity-80 transition">Docs</a>
+          <a href="#sections" className="hover:opacity-80 transition">Product</a>
+          <a href="#start" className="hover:opacity-80 transition">Start</a>
         </nav>
         <div className="flex items-center gap-3">
           <a
